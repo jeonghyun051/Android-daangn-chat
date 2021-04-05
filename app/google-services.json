@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1019240216885",
+    "firebase_url": "https://daangn-69c00-default-rtdb.firebaseio.com",
+    "project_id": "daangn-69c00",
+    "storage_bucket": "daangn-69c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019240216885:android:a5fc2d93184d56feeeb47c",
+        "android_client_info": {
+          "package_name": "com.cos.daangn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019240216885-enm8j93ct67cv78jiej1nj4aisu04q00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9vNIsBFSxhI13sseiINYwC8_tLsOAwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019240216885-enm8j93ct67cv78jiej1nj4aisu04q00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019240216885:android:21f82bfcebbc098ceeb47c",
+        "android_client_info": {
+          "package_name": "com.cos.daangnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019240216885-enm8j93ct67cv78jiej1nj4aisu04q00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9vNIsBFSxhI13sseiINYwC8_tLsOAwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019240216885-enm8j93ct67cv78jiej1nj4aisu04q00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
