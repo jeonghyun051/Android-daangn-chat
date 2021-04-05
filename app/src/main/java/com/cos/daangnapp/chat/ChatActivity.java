@@ -54,7 +54,7 @@ public class ChatActivity extends AppCompatActivity {
 
         // Write a message to the database 데베에 메시지 보내기
         FirebaseDatabase database = FirebaseDatabase.getInstance();
-        myRef = database.getReference("users").child(username).child("chat").child(String.valueOf(postId));
+        myRef = database.getReference(String.valueOf(postId)).child("chat");
 
         etText = findViewById(R.id.et_msg);
         btnSend = findViewById(R.id.btn_chat);
